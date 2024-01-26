@@ -13,7 +13,7 @@
 ## How to run the code:
 1. Clone the Repository
 2. Must have python installed (preferable Python 3.12.1)
-3. Run the following commands
-    a. ```cd Assignment_BJ_D```
-    b. ```pip install -r requirements.txt```
-    c. ```python app.py```
+3. Run the following commands <br/>
+    a. ```cd Assignment_BJ_D``` <br/>
+    b. ```pip install -r requirements.txt``` <br/>
+    c. ```python app.py``` <br/>
